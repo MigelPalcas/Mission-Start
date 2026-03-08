@@ -1,0 +1,31 @@
+Se abrieron las herramientas de desarrollador con F12 en el navegador Google Chrome y se accedió a la pestaña Console.
+Luego se recargó la página para registrar los mensajes generados durante la carga del sitio.
+
+Durante el análisis se detectaron varios errores relacionados con scripts externos y recursos de red.
+
+Errores identificados:
+
+1. Error de JavaScript:
+TypeError: Cannot read properties of undefined
+Este error ocurre cuando el código intenta acceder a una propiedad de un objeto que no está definido.
+
+2. Error de recurso no encontrado:
+404 (Not Found)
+El servidor no pudo encontrar el recurso solicitado.
+
+3. Error de dependencia:
+El servidor no pudo encontrar el recurso solicitado.
+
+3. Error de dependencia:
+424 (Failed Dependency)
+La solicitud depende de otra que falló previamente.
+
+4. Error de red:
+net::ERR_CONNECTION_RESET
+La conexión con el servidor se interrumpió antes de completarse.
+
+5. Error de redirecciones:
+net::ERR_TOO_MANY_REDIRECTS
+Se detectaron demasiadas redirecciones entre URLs.
+
+Algunos errores provienen de scripts externos relacionados con publicidad y servicios de terceros, lo cual es común en sitios web con contenido publicitario.
