@@ -1,0 +1,53 @@
+[33mcommit bee29c7806f1aea42fe5db4413edfa6943a98451[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrama-de-issues[m[33m)[m
+Author: Miguel Palma C. <lpalmacas@outlook.com>
+Date:   Sun Mar 8 18:56:08 2026 +0100
+
+    primer commit - configuración del proyecto
+
+[33mcommit 86d75bf5b6f280d6e180e4becd5da5b7a0299558[m[33m ([m[1;31morigin/rama-de-issues[m[33m)[m
+Author: Miguel Palma C. <lpalmacas@outlook.com>
+Date:   Sun Mar 8 18:50:32 2026 +0100
+
+    se corrigio el problema angteriormente causado en la estructura del proyecto
+
+[33mcommit 25c0d8746c4b933947da94a3e30b1eeed13b07a5[m
+Author: Miguel Palma C. <lpalmacas@outlook.com>
+Date:   Sun Mar 8 17:50:50 2026 +0100
+
+    Agregar archivo package.json con configuración inicial del proyecto
+
+[33mcommit 374e215f6d1c2f0262631a1a96bafcac6c445b8f[m
+Author: Miguel Palma C. <lpalmacas@outlook.com>
+Date:   Sun Mar 8 17:16:26 2026 +0100
+
+    issue 5 hecha
+
+[33mcommit 65778c05ebfc2ba144b71fc6aebf542c5c26d650[m
+Author: Miguel Palma C. <lpalmacas@outlook.com>
+Date:   Sun Mar 8 17:09:54 2026 +0100
+
+    Agregar estructura inicial del proyecto y checklist de configuración en README.md
+
+[33mcommit 2196cd5f1038e19b0c1bcf56d0201ddb4a99694d[m
+Author: Miguel Palma C. <lpalmacas@outlook.com>
+Date:   Sun Mar 8 16:27:09 2026 +0100
+
+    Agregar documento inicial de análisis y soluciones del proyecto Mission-Start
+
+[33mcommit d7cc8daee4f6b5ecf18f28dce4ce444b2c458237[m
+Author: Miguel Palma C. <lpalmacas@outlook.com>
+Date:   Sun Mar 8 01:01:16 2026 +0100
+
+    Se ha realizado el 2do issue y se ha creado la carpeta documentos e img para documentar todo los realizado
+
+[33mcommit 2544f047202bdde7b53d266f2a7b676380e413f4[m[33m ([m[1;32mmain[m[33m)[m
+Author: Miguel Palma C. <lpalmacas@outlook.com>
+Date:   Sun Mar 8 00:45:39 2026 +0100
+
+    este es el primer issue realizado
+
+[33mcommit 78d44ec32a87bda4ae18f17ed161fce107891918[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Miguel Palma C. <lpalmacas@outlook.com>
+Date:   Sat Mar 7 23:59:33 2026 +0100
+
+    Initial commit
